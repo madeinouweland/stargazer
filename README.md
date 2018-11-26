@@ -1,3 +1,3 @@
 # Star gazer
 
-<img src="https://github.com/madeinouweland/stargazer/blob/master/images/stargaze.gif" width="800">
+<img src="https://github.com/madeinouweland/stargazer/blob/master/images/stargazer.gif" width="800">
